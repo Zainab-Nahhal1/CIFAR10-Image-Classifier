@@ -1,11 +1,7 @@
+tensorflow>=2.9.0
 numpy
-pandas
 matplotlib
-tensorflow
 seaborn
-nltk
-keras
-Keras-Preprocessing
-jinja2
-torch
-torchvision
+scikit-learn
+pandas
+pytest

@@ -1,0 +1,8 @@
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+cifar10_best.h5
+cifar10_trained_model/
+sample/plots/
